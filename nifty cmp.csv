@@ -1,52 +1,51 @@
-	Company Name (M.Cap)	ROE
-0	IndusInd Bank Ltd.(L)	13.25
-1	Axis Bank Ltd.(L)	2.15
-2	UPL Ltd.(L)	12.48
-3	ICICI Bank Ltd.(L)	7.25
-4	Sun Pharmaceutical Industries Ltd.(L)	8.93
-5	State Bank Of India(L)	7.16
-6	Kotak Mahindra Bank Ltd.(L)	13.08
-7	Adani Ports and Special Economic Zone Ltd.(L)	19.74
-8	Bharti Airtel Ltd.(L)	-7.33
-9	Grasim Industries Ltd.(L)	7.49
-10	Tech Mahindra Ltd.(L)	16.7
-11	Zee Entertainment Enterprises Ltd.(L)	19.16
-12	Bajaj Finance Ltd.(L)	19.13
-13	Housing Development Finance Corporation Ltd.(L)	22.02
-14	Bharti Infratel Ltd.(L)	10.3
-15	ITC Ltd.(L)	23.95
-16	Larsen & Toubro Ltd.(L)	11.32
-17	Indian Oil Corporation Ltd.(L)	16.4
-18	Bharat Petroleum Corporation Ltd.(L)	20.99
-19	Ultratech Cement Ltd.(L)	15.64
-20	HDFC Bank Ltd.(L)	16.54
-21	Bajaj Finserv Ltd.(L)	21.78
-22	Reliance Industries Ltd.(L)	9.85
-23	Oil & Natural Gas Corporation Ltd.(L)	13.65
-24	Wipro Ltd.(L)	16.76
-25	Nestle India Ltd.(L)	70.25
-26	Maruti Suzuki India Ltd.(L)	7.13
-27	GAIL (India) Ltd.(L)	14.28
-28	Titan Company Ltd.(L)	23.34
-29	Tata Consultancy Services Ltd.(L)	36.47
-30	Hindalco Industries Ltd.(L)	6.19
-31	HCL Technologies Ltd.(L)	25.41
-32	Britannia Industries Ltd.(L)	31.13
-33	Tata Steel Ltd.(L)	9.4
-34	Mahindra & Mahindra Ltd.(L)	7.98
-35	Bajaj Auto Ltd.(L)	23.05
-36	Cipla Ltd.(L)	12.96
-37	Hindustan Unilever Ltd.(L)	84.35
-38	NTPC Ltd.(L)	11.42
-39	Eicher Motors Ltd.(L)	19.49
-40	Shree Cement Ltd.(L)	13.6
-41	Coal India Ltd.(L)	74.93
-42	Tata Motors Ltd.(L)	-16.69
-43	HDFC Life Insurance Co Ltd.(L)	0
-44	Infosys Ltd.(L)	24.9
-45	Asian Paints Ltd.(L)	26.96
-46	Dr. Reddys Laboratories Ltd.(L)	13.41
-47	Power Grid Corporation Of India Ltd.(L)	20.75
-48	Hero MotoCorp Ltd.(L)	21.32
-49	JSW Steel Ltd.(L)	18.29
-
+,Company Name (M.Cap),ROE
+0,IndusInd Bank Ltd.(L),13.25
+1,Axis Bank Ltd.(L),2.15
+2,UPL Ltd.(L),12.48
+3,ICICI Bank Ltd.(L),7.25
+4,Sun Pharmaceutical Industries Ltd.(L),8.93
+5,State Bank Of India(L),7.16
+6,Kotak Mahindra Bank Ltd.(L),13.08
+7,Adani Ports and Special Economic Zone Ltd.(L),19.74
+8,Bharti Airtel Ltd.(L),-7.33
+9,Grasim Industries Ltd.(L),7.49
+10,Tech Mahindra Ltd.(L),16.7
+11,Zee Entertainment Enterprises Ltd.(L),19.16
+12,Bajaj Finance Ltd.(L),19.13
+13,Housing Development Finance Corporation Ltd.(L),22.02
+14,Bharti Infratel Ltd.(L),10.3
+15,ITC Ltd.(L),23.95
+16,Larsen & Toubro Ltd.(L),11.32
+17,Indian Oil Corporation Ltd.(L),16.4
+18,Bharat Petroleum Corporation Ltd.(L),20.99
+19,Ultratech Cement Ltd.(L),15.64
+20,HDFC Bank Ltd.(L),16.54
+21,Bajaj Finserv Ltd.(L),21.78
+22,Reliance Industries Ltd.(L),9.85
+23,Oil & Natural Gas Corporation Ltd.(L),13.65
+24,Wipro Ltd.(L),16.76
+25,Nestle India Ltd.(L),70.25
+26,Maruti Suzuki India Ltd.(L),7.13
+27,GAIL (India) Ltd.(L),14.28
+28,Titan Company Ltd.(L),23.34
+29,Tata Consultancy Services Ltd.(L),36.47
+30,Hindalco Industries Ltd.(L),6.19
+31,HCL Technologies Ltd.(L),25.41
+32,Britannia Industries Ltd.(L),31.13
+33,Tata Steel Ltd.(L),9.4
+34,Mahindra & Mahindra Ltd.(L),7.98
+35,Bajaj Auto Ltd.(L),23.05
+36,Cipla Ltd.(L),12.96
+37,Hindustan Unilever Ltd.(L),84.35
+38,NTPC Ltd.(L),11.42
+39,Eicher Motors Ltd.(L),19.49
+40,Shree Cement Ltd.(L),13.6
+41,Coal India Ltd.(L),74.93
+42,Tata Motors Ltd.(L),-16.69
+43,HDFC Life Insurance Co Ltd.(L),0
+44,Infosys Ltd.(L),24.9
+45,Asian Paints Ltd.(L),26.96
+46,Dr. Reddys Laboratories Ltd.(L),13.41
+47,Power Grid Corporation Of India Ltd.(L),20.75
+48,Hero MotoCorp Ltd.(L),21.32
+49,JSW Steel Ltd.(L),18.29
